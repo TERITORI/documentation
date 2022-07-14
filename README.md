@@ -6,4 +6,4 @@
 [__ACTIVE__] - [Testnet](https://github.com/TERITORI/teritori-chain/tree/main/testnet/teritori-testnet-v2)  
 
 # Relaying for Teritori  
-[Hermes](https://github.com/TERITORI/teritori-chain/tree/main/relaying/hermes)
+[Hermes](https://github.com/TERITORI/documentation/tree/main/relaying/hermes)
