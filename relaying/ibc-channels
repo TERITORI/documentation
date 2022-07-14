@@ -1,0 +1,14 @@
+# IBC Channels for Teritori  
+## Mainnet  
+
+| source chain-id  | source channel  | destination | destination chain-id  | destination channel |
+| ---------------- | --------------- | ----------- | --------------------- | ------------------- |
+| teritori-1 | channel-X | cosmos | cosmoshub-4 | channel-XXX |
+| teritori-1 | channel-X | osmosis | osmosis-1 | channel-XXX |
+
+## Testnet  
+
+| source chain-id  | source channel  | destination | destination chain-id  | destination channel |
+| ---------------- | --------------- | ----------- | --------------------- | ------------------- |
+| teritori-testnet-v2 | channel-X | cosmos | cosmoshub-4 | channel-XXX |
+| teritori-testnet-v2 | channel-X | osmosis | osmosis-1 | channel-XXX |
