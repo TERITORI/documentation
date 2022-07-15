@@ -10,5 +10,7 @@
 
 | source chain-id  | source channel  | destination | destination chain-id  | destination channel |
 | ---------------- | --------------- | ----------- | --------------------- | ------------------- |
+| teritori-testnet-v2 | channel-0 | cosmos-testnet | theta-testnet-001 | channel-499 |
+| teritori-testnet-v2 | channel-1 | osmosis-testnet | osmo-test-4 | channel-353 |
 | teritori-testnet-v2 | channel-X | cosmos | cosmoshub-4 | channel-XXX |
 | teritori-testnet-v2 | channel-X | osmosis | osmosis-1 | channel-XXX |
